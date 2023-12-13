@@ -27,8 +27,7 @@ This is a simple Tic Tac Toe game implemented in Windows Forms using C#. The gam
 2. Play1Form (Player vs. Computer)
       - Enter your name.
       - Click on the "Start" button to begin the game against the computer.
-      - Make your move by clicking on the available buttons.
-
+     
 3. Play1vCForm (Player vs. Computer Gameplay)
       - The player makes a move by clicking on an available button.
       - The computer responds with its move.
@@ -37,7 +36,6 @@ This is a simple Tic Tac Toe game implemented in Windows Forms using C#. The gam
 4. Play2Form (Player vs. Player)
       - Enter names for Player 1 and Player 2.
       - Click on the "Start" button to begin the game.
-      - Players take turns making moves by clicking on the available buttons.
 
 5. Play1v1Form (Player vs. Player Gameplay)
       - Players take turns making moves by clicking on the available buttons.
